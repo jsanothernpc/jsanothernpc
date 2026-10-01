@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayushman Pathak</h1>
 
-<h3 align="center">
-  Java Backend Developer • Spring Boot • GenAI • RAG
-</h3>
+<h3 align="center">Java Backend Developer • Spring Boot • Generative AI • RAG</h3>
 
 <p align="center">
-  <a href="https://github.com/ayushman1309">
-    <img src="https://img.shields.io/github/followers/ayushman1309?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <a href="https://github.com/jsanothernpc">
+    <img src="https://img.shields.io/github/followers/jsanothernpc?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
   <a href="https://leetcode.com/u/ayushman3009/">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
@@ -14,20 +12,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Backend+Development;Building+REST+APIs+and+Scalable+Backend+Systems;Exploring+Generative+AI+%7C+RAG+%7C+Spring+AI;Always+Learning%2C+Building+and+Solving+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+Backend+Development;Building+REST+APIs+and+Backend+Systems;Generative+AI+%7C+RAG+%7C+Spring+AI;Learning+%7C+Building+%7C+Solving+Problems" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* ☕ Passionate about **Java and backend development**
-* 🌱 Building applications using **Spring Boot and REST APIs**
-* 🤖 Exploring **Generative AI, RAG, Embeddings and LLM applications**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🗄️ Working with **SQL, PostgreSQL, MySQL and vector databases**
-* 🐳 Learning and using **Docker and cloud deployment**
-* 🚀 Interested in building real-world backend and AI-powered applications
+- ☕ Passionate about **Java and Backend Development**
+- 🌱 Building backend applications with **Spring Boot**
+- 🤖 Exploring **Generative AI, RAG, Embeddings and LLM applications**
+- 🔐 Interested in **Spring Security, JWT and Authentication**
+- 🗄️ Working with **SQL, PostgreSQL, MySQL and Vector Databases**
+- 🐳 Learning and using **Docker and Cloud Technologies**
+- 🧠 Practicing **Data Structures, Algorithms and SQL**
+- 🚀 Interested in building real-world backend and AI-powered applications
 
 ---
 
@@ -35,52 +34,52 @@
 
 ### 🤖 RepoMind — AI-Powered GitHub Repository Knowledge Assistant
 
-> An AI knowledge assistant that understands GitHub repositories using **Spring AI + RAG**.
+> An AI-powered knowledge assistant that understands GitHub repositories using **Spring AI + RAG**.
 
-**Tech Stack:**
+**Tech Stack**
 
 `Java` `Spring Boot` `Spring AI` `RAG` `OpenAI` `PostgreSQL` `PGVector` `Next.js` `Docker`
 
-**Key Features:**
+**Key Features**
 
-* 🔐 GitHub OAuth2 authentication
-* 📂 GitHub repository integration
-* 📑 Repository code indexing
-* ✂️ Code chunking
-* 🧠 Embedding generation
-* 🔎 Vector similarity search using PGVector
-* 🤖 RAG-based AI conversations
-* 📌 Code citations in AI responses
-* 💬 Persistent chat sessions
-* ⚡ Streaming AI responses
+- 🔐 GitHub OAuth2 authentication
+- 📂 GitHub repository integration
+- 📑 Repository code indexing
+- ✂️ Code chunking
+- 🧠 Embedding generation
+- 🔎 Vector similarity search using PGVector
+- 🤖 RAG-based AI conversations
+- 📌 Code citations in AI responses
+- 💬 Persistent chat sessions
+- ⚡ Streaming AI responses
 
 <p align="center">
   <a href="https://github.com/jsanothernpc/RepoMind">
-    <img src="https://img.shields.io/badge/View%20Project-RepoMind-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View%20Project-RepoMind-blue?style=for-the-badge&logo=github" alt="RepoMind"/>
   </a>
 </p>
 
 ---
 
-### 🛒 CartFlow — E-Commerce Backend
+### 🛒 CartFlow — E-Commerce Application
 
-> A full-stack e-commerce application with a Spring Boot backend and separate payment service.
+> A full-stack e-commerce application built with a Spring Boot backend and a separate payment service.
 
-**Tech Stack:**
+**Tech Stack**
 
 `Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL` `REST API` `Docker` `AWS`
 
-**Key Features:**
+**Key Features**
 
-* 🔐 JWT authentication and authorization
-* 👤 User management
-* 🛍️ Product management
-* 🛒 Shopping cart
-* 📦 Order management
-* 💳 Separate payment service
-* 🗄️ MySQL database
-* ☁️ AWS deployment
-* 🐳 Docker / deployment workflow
+- 🔐 JWT authentication and authorization
+- 👤 User management
+- 🛍️ Product management
+- 🛒 Shopping cart
+- 📦 Order management
+- 💳 Separate payment service
+- 🗄️ MySQL database
+- ☁️ AWS deployment
+- 🐳 Docker-based deployment workflow
 
 ---
 
@@ -89,86 +88,80 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&perline=4" alt="Languages"/>
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=5" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=4" alt="Backend Technologies"/>
 </p>
 
 ### 🤖 Generative AI
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
+</p>
 
-`Spring AI`   `RAG`   `LLMs`   `Embeddings`   `Vector Search`   `PGVector`
-
+<p align="center">
+  <b>Spring AI</b> • <b>RAG</b> • <b>LLMs</b> • <b>Embeddings</b> • <b>Vector Search</b> • <b>PGVector</b>
 </p>
 
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" alt="Frontend Technologies"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="Databases"/>
 </p>
 
 ### ☁️ DevOps & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws&perline=4" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws&perline=4" alt="DevOps and Cloud"/>
 </p>
 
 ### 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools"/>
 </p>
 
 ---
 
 ## 🧠 What I'm Currently Learning
 
-```text
-Java & OOP
-     ↓
-Spring Boot
-     ↓
-REST APIs
-     ↓
-JPA / Hibernate
-     ↓
-SQL & Database Design
-     ↓
-Spring Security & JWT
-     ↓
-Docker & Cloud
-     ↓
-Generative AI
-     ↓
-RAG → Embeddings → Vector Databases → LLM Applications
-```
+| Area | Focus |
+|---|---|
+| ☕ Java | Core Java & OOP |
+| 🌱 Spring | Spring Framework & Spring Boot |
+| 🔗 APIs | REST API Development |
+| 🗄️ Persistence | JPA & Hibernate |
+| 🔐 Security | Spring Security & JWT |
+| 🗃️ Database | SQL & Database Design |
+| 🐳 DevOps | Docker & Cloud |
+| 🤖 GenAI | LLMs & Spring AI |
+| 🔎 RAG | Embeddings & Vector Databases |
 
 ---
 
 ## 📚 Backend Focus
 
-* ☕ Core Java & OOP
-* 🌱 Spring Framework & Spring Boot
-* 🔗 REST API Development
-* 🗄️ Spring Data JPA & Hibernate
-* 🔐 Spring Security & JWT
-* 🧩 Dependency Injection & IoC
-* 🗃️ SQL & Database Design
-* 🏗️ Backend Architecture
-* 🐳 Docker
-* ☁️ AWS
-* 🤖 Generative AI & RAG
+- ☕ Core Java & OOP
+- 🌱 Spring Framework & Spring Boot
+- 🔗 REST API Development
+- 🗄️ Spring Data JPA & Hibernate
+- 🔐 Spring Security & JWT
+- 🧩 Dependency Injection & IoC
+- 🗃️ SQL & Database Design
+- 🏗️ Backend Architecture
+- 🐳 Docker
+- ☁️ AWS
+- 🤖 Generative AI & RAG
 
 ---
 
@@ -176,7 +169,7 @@ RAG → Embeddings → Vector Databases → LLM Applications
 
 <p align="center">
   <a href="https://leetcode.com/u/ayushman3009/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
 </p>
 
@@ -189,20 +182,12 @@ RAG → Embeddings → Vector Databases → LLM Applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushman1309&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman1309&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jsanothernpc&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsanothernpc&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushman1309&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushman1309/ayushman1309/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://streak-stats.demolab.com?user=jsanothernpc&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -210,7 +195,6 @@ RAG → Embeddings → Vector Databases → LLM Applications
 ## 🌍 Connect With Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/ayushman-pathak13">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -223,17 +207,12 @@ RAG → Embeddings → Vector Databases → LLM Applications
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://github.com/ayushman1309">
+  <a href="https://github.com/jsanothernpc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
 
 <p align="center">
   ⭐ <i>"I'm Vengeance."</i> ⭐
